@@ -8,7 +8,6 @@ python:3.9.6
 [项目目录说明]
 config
     --config.ini    测试地址与输出文件路径
-    --globalparameter   全局参数,输出文件路径,与config功能一致,此格式方便调用
 
 data
     --testdata  测试数据的存放路径
